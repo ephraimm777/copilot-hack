@@ -1,2 +1,5 @@
 flask
-pandas
+gunicorn
+numpy<2.0
+pandas<3.0
+scikit-learn==1.2.2

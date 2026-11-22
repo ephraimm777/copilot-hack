@@ -10,6 +10,10 @@ This project is configured with a [devcontainer](./.devcontainer/devcontainer.js
 
 The project does assume you are familiar with programming, but is not prescriptive about language or framework choice.
 
+## Flight-delay app
+
+The working Flight Signal app is in [`possible-solution`](./possible-solution). Follow the [frontend README](./possible-solution/client/README.md) to start the Flask API and SvelteKit website.
+
 ## License 
 
 This project is licensed under the terms of the MIT open source license. Please refer to [MIT](./LICENSE.txt) for the full terms.
